@@ -5,9 +5,9 @@ from .dpy_menus import NoReplyMenus, ReplyMenus
 # Keeping all global vars in one place
 GLOBAL_CATEGORIES = []
 ARROWS = {
-    "right": "\N{BLACK RIGHTWARDS ARROW}\N{VARIATION SELECTOR-16}",
-    "left": "\N{LEFTWARDS BLACK ARROW}\N{VARIATION SELECTOR-16}",
-    "cross": "\N{CROSS MARK}",
+    "right": "<a:Right:832611323610529832>",
+    "left": "<a:Left:832611125475934220>",
+    "cross": "Cross:832611382339960852>",
     "home": "\U0001f3d8\U0000fe0f",
     "force_right": "\N{BLACK RIGHT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR}\N{VARIATION SELECTOR-16}",
     "force_left": "\N{BLACK LEFT-POINTING DOUBLE TRIANGLE WITH VERTICAL BAR}\N{VARIATION SELECTOR-16}",
