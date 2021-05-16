@@ -5,7 +5,7 @@ from .dpy_menus import NoReplyMenus, ReplyMenus
 # Keeping all global vars in one place
 GLOBAL_CATEGORIES = []
 ARROWS = {
-    "right": "<a:Right:832611323610529832>",
+    "right": "<a:Right:843289282453438475>",
     "left": "<a:Left:832611125475934220>",
     "cross": "Cross:832611382339960852>",
     "home": "\U0001f3d8\U0000fe0f",
